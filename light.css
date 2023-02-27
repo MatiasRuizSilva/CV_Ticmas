@@ -1,0 +1,23 @@
+/* #switch.active .boton {
+    left: 40px;
+}
+
+body.active {
+    background-color: darkgrey;
+    color: black;
+}
+
+body.dark {
+    background-color: darkgrey;
+    color: black;
+} */
+
+i{
+    font-size: 50px;
+    cursor: pointer;
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    transform: translate(-7%, -50%);
+}
+
