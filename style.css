@@ -42,6 +42,7 @@ body {
 .experiencia-texto {
     text-align: justify;
     text-indent: 1em;
+    margin: 1.3em;
 }
 
 .referentes {
@@ -77,7 +78,7 @@ h3 {
 }
 
 .contacto-icono {
-    width: 30%;
+    width: 33%;
     background-color: white;
     border-radius: 15%;
     border: 0.2em solid white;
@@ -85,15 +86,13 @@ h3 {
 }
 
 .icono {
-    width: 30%;
+    width: 33%;
     margin: 2em;
 }
 
 .icono :hover {
     box-shadow: 0px 0px 30px 35px rgba(0, 0, 0, 0.91);
-    /*-webkit-box-shadow: 0px 0px 30px 35px rgba(0,0,0,0.91);
-    -moz-box-shadow: 0px 0px 30px 35px rgba(0,0,0,0.91);
-    */width: 35%;
+    width: 35%;
     margin: 0em;
-    transition: 1seg;
+    transition: 0.3s;
 }
