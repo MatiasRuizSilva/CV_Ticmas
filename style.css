@@ -21,12 +21,9 @@ i {
 }
 
 .titulo {
-    height: 2.5em;
     margin: 0.3em 0.4em;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
+
 .imagen {
     text-align: center;
 }
