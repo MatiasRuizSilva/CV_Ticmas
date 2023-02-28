@@ -2,7 +2,14 @@ body {
     font-family: "Montserrat", sans-serif;
     /* font-family: 'Open Sans', sans-serif; */
     background-color: rgb(25, 23, 23);
-    color: white;
+    color: rgb(202, 202, 202);
+}
+
+i {
+    margin-top: 0.9em;
+    font-size: 5em;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
 }
 
 .cabecera {
